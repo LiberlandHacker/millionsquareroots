@@ -2,7 +2,7 @@
 // 04 October, 2020
 
 // Alert user to the large computational appetite of the program
-alert("Are you 100% sure you are ready to see a million square roots?");
+alert("Please be patient. Depending on your computational power, this may take a while to load all 1,000,001 square roots.");
 
 var operator = 'squareRoot';
 var i = 0;
